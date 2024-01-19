@@ -1,0 +1,12 @@
+C:\Users\noky_\source\repos\Rammeverk-og-.Net\ClassLibrary1.SimulationFramework\obj\Debug\net8.0\ClassLibrary.SimulationFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noky_\source\repos\Rammeverk-og-.Net\ClassLibrary1.SimulationFramework\obj\Debug\net8.0\ClassLibrary.SimulationFramework.AssemblyInfoInputs.cache
+C:\Users\noky_\source\repos\Rammeverk-og-.Net\ClassLibrary1.SimulationFramework\obj\Debug\net8.0\ClassLibrary.SimulationFramework.AssemblyInfo.cs
+C:\Users\noky_\source\repos\Rammeverk-og-.Net\ClassLibrary1.SimulationFramework\obj\Debug\net8.0\ClassLibrary.SimulationFramework.csproj.CoreCompileInputs.cache
+C:\Users\noky_\source\repos\Rammeverk-og-.Net\ClassLibrary1.SimulationFramework\obj\Debug\net8.0\ClassLibrary.SimulationFramework.sourcelink.json
+C:\Users\noky_\source\repos\Rammeverk-og-.Net\ClassLibrary1.SimulationFramework\bin\Debug\net8.0\ClassLibrary.SimulationFramework.deps.json
+C:\Users\noky_\source\repos\Rammeverk-og-.Net\ClassLibrary1.SimulationFramework\bin\Debug\net8.0\ClassLibrary.SimulationFramework.dll
+C:\Users\noky_\source\repos\Rammeverk-og-.Net\ClassLibrary1.SimulationFramework\bin\Debug\net8.0\ClassLibrary.SimulationFramework.pdb
+C:\Users\noky_\source\repos\Rammeverk-og-.Net\ClassLibrary1.SimulationFramework\obj\Debug\net8.0\ClassLibrary.SimulationFramework.dll
+C:\Users\noky_\source\repos\Rammeverk-og-.Net\ClassLibrary1.SimulationFramework\obj\Debug\net8.0\refint\ClassLibrary.SimulationFramework.dll
+C:\Users\noky_\source\repos\Rammeverk-og-.Net\ClassLibrary1.SimulationFramework\obj\Debug\net8.0\ClassLibrary.SimulationFramework.pdb
+C:\Users\noky_\source\repos\Rammeverk-og-.Net\ClassLibrary1.SimulationFramework\obj\Debug\net8.0\ref\ClassLibrary.SimulationFramework.dll
