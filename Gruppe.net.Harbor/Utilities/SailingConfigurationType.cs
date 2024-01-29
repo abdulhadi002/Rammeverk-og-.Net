@@ -1,4 +1,5 @@
-﻿namespace Gruppe.net.Harbor.Models
+﻿namespace Gruppe.net.Harbor.Utilities
+
 {
     public enum SailingConfigurationType
     {

@@ -1,4 +1,4 @@
-﻿namespace Gruppe.net.Harbor.Models
+﻿namespace Gruppe.net.Harbor.Dock
 {
     public class DockSpace
     {
@@ -7,5 +7,10 @@
         private List<ShipType> allowedShipTypes { get; set; }
 
         public void configuraDockSpace() { }
+
+        public void AddAllowedShipType(ShipType shipType)
+        {
+            allowedShipTypes.Add(shipType);
+        }
     }
 }

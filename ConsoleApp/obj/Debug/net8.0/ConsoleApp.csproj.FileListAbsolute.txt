@@ -17,3 +17,11 @@ C:\Users\noky_\source\repos\Rammeverk-og-.Net\ConsoleApp1\obj\Debug\net8.0\refin
 C:\Users\noky_\source\repos\Rammeverk-og-.Net\ConsoleApp1\obj\Debug\net8.0\ConsoleApp.pdb
 C:\Users\noky_\source\repos\Rammeverk-og-.Net\ConsoleApp1\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
 C:\Users\noky_\source\repos\Rammeverk-og-.Net\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp.dll
+C:\Users\noky_\Source\Repos\Rammeverk-og-.Net\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noky_\Source\Repos\Rammeverk-og-.Net\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\noky_\Source\Repos\Rammeverk-og-.Net\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\noky_\Source\Repos\Rammeverk-og-.Net\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\noky_\Source\Repos\Rammeverk-og-.Net\ConsoleApp\obj\Debug\net8.0\ConsoleApp.sourcelink.json
+C:\Users\noky_\Source\Repos\Rammeverk-og-.Net\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+C:\Users\noky_\Source\Repos\Rammeverk-og-.Net\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+C:\Users\noky_\Source\Repos\Rammeverk-og-.Net\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb

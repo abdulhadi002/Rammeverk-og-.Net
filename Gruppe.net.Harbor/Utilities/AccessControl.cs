@@ -1,4 +1,4 @@
-﻿namespace Gruppe.net.Harbor.Models
+﻿namespace Gruppe.net.Harbor.Utilities
 {
     public class AccessControl
     {

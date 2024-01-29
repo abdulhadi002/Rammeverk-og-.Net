@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Components.Routing;
 
-namespace Gruppe.net.Harbor.Models
+namespace Gruppe.net.Harbor.ContainerYard
 {
     public class Container
     {

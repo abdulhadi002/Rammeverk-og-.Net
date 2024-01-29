@@ -1,9 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ClassLibrary.SimulationFramework\\obj",
-    "\\Gruppe.net.Harbor"
+    "\\.github",
+    "\\.github\\workflows",
+    "\\ConsoleApp\\bin\\Debug",
+    "\\Gruppe.net.Harbor",
+    "\\Gruppe.net.Harbor\\bin\\Release\\net8.0"
   ],
-  "SelectedNode": "\\Gruppe.net.Harbor\\Program.cs",
+  "SelectedNode": "\\ConsoleApp",
   "PreviewInSolutionExplorer": false
 }

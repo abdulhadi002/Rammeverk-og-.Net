@@ -1,4 +1,4 @@
-﻿namespace Gruppe.net.Harbor.Models
+﻿namespace Gruppe.net.Harbor.ContainerYard
 {
     public class ContainerHistory
     {
