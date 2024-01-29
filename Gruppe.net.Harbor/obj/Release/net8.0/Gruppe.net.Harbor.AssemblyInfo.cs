@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gruppe.net.Harbor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ca803aca97a5c668bcf183db8178d434e2ea5fd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a856fdae50e38039af578a75e163e4ea0174cbff")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gruppe.net.Harbor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gruppe.net.Harbor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
