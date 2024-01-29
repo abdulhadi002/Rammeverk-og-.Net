@@ -1,0 +1,11 @@
+C:\Users\noky_\source\repos\ConsoleApp1\ClassLibrary1.SimulationFramework\bin\Debug\net8.0\ClassLibrary1.SimulationFramework.deps.json
+C:\Users\noky_\source\repos\ConsoleApp1\ClassLibrary1.SimulationFramework\bin\Debug\net8.0\ClassLibrary1.SimulationFramework.dll
+C:\Users\noky_\source\repos\ConsoleApp1\ClassLibrary1.SimulationFramework\bin\Debug\net8.0\ClassLibrary1.SimulationFramework.pdb
+C:\Users\noky_\source\repos\ConsoleApp1\ClassLibrary1.SimulationFramework\obj\Debug\net8.0\ClassLibrary1.SimulationFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noky_\source\repos\ConsoleApp1\ClassLibrary1.SimulationFramework\obj\Debug\net8.0\ClassLibrary1.SimulationFramework.AssemblyInfoInputs.cache
+C:\Users\noky_\source\repos\ConsoleApp1\ClassLibrary1.SimulationFramework\obj\Debug\net8.0\ClassLibrary1.SimulationFramework.AssemblyInfo.cs
+C:\Users\noky_\source\repos\ConsoleApp1\ClassLibrary1.SimulationFramework\obj\Debug\net8.0\ClassLibrary1.SimulationFramework.csproj.CoreCompileInputs.cache
+C:\Users\noky_\source\repos\ConsoleApp1\ClassLibrary1.SimulationFramework\obj\Debug\net8.0\ClassLibrary1.SimulationFramework.dll
+C:\Users\noky_\source\repos\ConsoleApp1\ClassLibrary1.SimulationFramework\obj\Debug\net8.0\refint\ClassLibrary1.SimulationFramework.dll
+C:\Users\noky_\source\repos\ConsoleApp1\ClassLibrary1.SimulationFramework\obj\Debug\net8.0\ClassLibrary1.SimulationFramework.pdb
+C:\Users\noky_\source\repos\ConsoleApp1\ClassLibrary1.SimulationFramework\obj\Debug\net8.0\ref\ClassLibrary1.SimulationFramework.dll
