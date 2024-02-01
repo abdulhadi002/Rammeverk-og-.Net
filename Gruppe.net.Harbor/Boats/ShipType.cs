@@ -26,4 +26,19 @@ namespace Gruppe.net.Harbor.Models
             }
         }
     }
+
+    public static int travelTime(ShipType shipType, int distance)
+    {
+        int speed = ShipSpeeds.GetSpeed(shipType);
+
+        if (speed > 0)
+        {
+            int time = distance / speed;
+            return time;
+        }
+        else
+        {
+            return "Speed error!"
+        }
+    }
 }
