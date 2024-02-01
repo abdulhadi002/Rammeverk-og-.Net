@@ -5,16 +5,18 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
+            
+            
+            IHarborSimulation simulation = new HarborSimulation();
+            simulation.Initialize();
+            simulation.Start();
+            Console.WriteLine("Status: " + simulation.GetStatus());
+            simulation.Pause();
+            Console.WriteLine("Status: " + simulation.GetStatus());
+            simulation.Resume();
+            Console.WriteLine("Status: " + simulation.GetStatus());
+            simulation.Stop();
 
-            //Interface1 driver = new ...();
-
-            //var distance = 25 * 1000;
-            //var acceleration = 4.13f;
-
-
-            //var timeTake = driver.Run(distance, acceleration);
-
-            //Console.WriteLine($"Time taken to travel from Sarpsborg to Halden: {timeTake}");
         }
     }
 }

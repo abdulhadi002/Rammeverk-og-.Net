@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ClassLibrary.SimulationFramework\\obj",
+    "\\Gruppe.net.Harbor"
   ],
+  "SelectedNode": "\\Gruppe.net.Harbor\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

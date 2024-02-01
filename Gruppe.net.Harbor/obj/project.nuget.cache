@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3pfMSLA3ZMqK+55KObEJ55mi+kdBFqHGsM7/K+bjJa8s9eKRUwtkN8itg1WnO8xQ4NdQi1hSjzYTcWg6VW2ukw==",
+  "dgSpecHash": "ISPVf1q3HuHJN+pOefoppe3ZSQFGm38Gf2iD0KQpfIo5UH940CKY6c36vOL/KtccpHynz9pHxYv4jFYbkc7O6w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\noky_\\source\\repos\\Harbor\\Gruppe.net.Harbor\\Gruppe.net.Harbor.csproj",
+  "projectFilePath": "C:\\Users\\noky_\\Source\\Repos\\Rammeverk-og-.Net\\Gruppe.net.Harbor\\Gruppe.net.Harbor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\noky_\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\noky_\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
